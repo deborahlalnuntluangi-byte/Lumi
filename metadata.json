@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumi - AI Companion",
+  "description": "A warm, personal AI companion that tracks your mood, remembers your goals, and offers emotional support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
